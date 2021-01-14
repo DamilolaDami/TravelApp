@@ -1,12 +1,13 @@
 # TravelApp Ui Made with Flutter :smile:  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![Twitter Follow](https://img.shields.io/twitter/follow/LeanXMolly1.svg?style=social)](https://twitter.com/LeanXMolly1)
-** It consists of two screens** 
+**It consists of two screens** 
 
 ##   you can also buy me coffee 
 > <a href="https://www.buymeacoffee.com/maleek"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xPGLYEr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
-  ###     Sreenshots:
-  <!--App screenshots here... -->
+ <!--  ###     Sreenshots:
+ --App screenshots here... 
   <img src="assets/images/githubwhiteanddark.jpg"/>
+-->
   
 ### 💻  Requirements :alien:
 
